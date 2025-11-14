@@ -1,4 +1,4 @@
-# Global Power Platform Bootcamp Cali
+# Global Power Platform Bootcamp Cali🚀
 Repositorio público, para almacenar la información del Global Power Platform Bootcamp Cali.
 
 Encuentra la información por ponente de manera alfabética, en las carpetas ubicadas en la parte superior de este repositorio ☝.
