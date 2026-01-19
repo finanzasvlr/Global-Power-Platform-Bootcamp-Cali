@@ -3,4 +3,4 @@ Repositorio público, para almacenar la información del Global Power Platform B
 
 Encuentra la información por ponente de manera alfabética, en las carpetas ubicadas en la parte superior de este repositorio ☝.
 
-Para más detalles del evento, ponentes y programación, consulta la página oficial del Global Power Platform Bootcamp de Microsoft: https://www.powerplatformbootcamp.com
+Para más detalles del evento, ponentes y programación, consulta en la página oficial del Global Power Platform Bootcamp de Microsoft: https://www.powerplatformbootcamp.com la información de "Cali-Colombia".
