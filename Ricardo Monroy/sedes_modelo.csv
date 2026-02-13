@@ -1,0 +1,23 @@
+Codigo_Sede,Nombre_Sede,Comuna,Zona,Latitud,Longitud,KAM,Gerencia,Segmento_Tienda,Nivel_Socioeconomico,Canal_Principal,Formato_Tienda,Fecha_Apertura
+S001,Tienda Comuna 3,Comuna 3,Centro,3.449510982993607,-76.5329213302312,KAM Centro - Jorge Morales,Gerencia Regional Centro,C,Medio,Tradicional,Tienda de barrio,2022-07-21
+S002,Tienda Comuna 17,Comuna 17,Sur,3.385569580544822,-76.5299446840391,KAM Sur - Juan Pérez,Gerencia Regional Sur,A,Medio,Tradicional,Tienda de barrio,2020-08-23
+S003,Tienda Comuna 18,Comuna 18,Sur,3.382051463619665,-76.55295999688516,KAM Sur - Juan Pérez,Gerencia Regional Sur,C,Bajo,Tradicional,Tienda de barrio,2024-08-23
+S004,Tienda Comuna 22,Comuna 22,Sur,3.350657010506481,-76.53731934777916,KAM Sur - Juan Pérez,Gerencia Regional Sur,C,Bajo,Tradicional,Tienda de barrio,2019-08-30
+S005,Tienda Comuna 16,Comuna 16,Sur,3.4040990929820585,-76.51390857097384,KAM Sur - Juan Pérez,Gerencia Regional Sur,A,Bajo,Tradicional,Tienda de barrio,2024-08-03
+S006,Tienda Comuna 15,Comuna 15,Sur,3.4045706017769675,-76.5007464952674,KAM Sur - Juan Pérez,Gerencia Regional Sur,A,Alto,Tradicional,Tienda de barrio,2022-09-25
+S007,Tienda Comuna 11,Comuna 11,Este,3.4230417511610955,-76.51467888424875,KAM Este - Ana Martínez,Gerencia Regional Este,C,Alto,Tradicional,Tienda de barrio,2024-11-09
+S008,Tienda Comuna 10,Comuna 10,Este,3.419222385047601,-76.52765892791842,KAM Este - Ana Martínez,Gerencia Regional Este,B,Alto,Tradicional,Tienda de barrio,2022-10-22
+S009,Tienda Comuna 19,Comuna 19,Sur,3.421722346196052,-76.54699375421202,KAM Sur - Juan Pérez,Gerencia Regional Sur,C,Medio,Tradicional,Tienda de barrio,2023-01-18
+S010,Tienda Comuna 12,Comuna 12,Centro,3.434518869099993,-76.5018655513702,KAM Centro - Jorge Morales,Gerencia Regional Centro,C,Alto,Tradicional,Tienda de barrio,2021-02-14
+S011,Tienda Comuna 20,Comuna 20,Sur,3.420130275338106,-76.5595285920743,KAM Sur - Juan Pérez,Gerencia Regional Sur,C,Medio,Tradicional,Tienda de barrio,2019-02-04
+S012,Tienda Comuna 9,Comuna 9,Centro,3.441293119536244,-76.52609954254916,KAM Centro - Jorge Morales,Gerencia Regional Centro,C,Medio,Tradicional,Tienda de barrio,2024-05-09
+S013,Tienda Comuna 8,Comuna 8,Centro,3.44631562475508,-76.50598154106825,KAM Centro - Jorge Morales,Gerencia Regional Centro,A,Alto,Tradicional,Tienda de barrio,2023-05-05
+S014,Tienda Comuna 1,Comuna 1,Norte,3.4553425812289524,-76.5669945689099,KAM Norte - Laura Fernández,Gerencia Regional Norte,C,Medio,Tradicional,Tienda de barrio,2021-10-18
+S015,Tienda Comuna 4,Comuna 4,Norte,3.46949446686436,-76.50932824710034,KAM Norte - Laura Fernández,Gerencia Regional Norte,B,Alto,Tradicional,Tienda de barrio,2022-02-03
+S016,Tienda Comuna 13,Comuna 13,Este,3.427606138586845,-76.49306155782482,KAM Este - Ana Martínez,Gerencia Regional Este,A,Alto,Tradicional,Tienda de barrio,2023-02-09
+S017,Tienda Comuna 14,Comuna 14,Este,3.425067077911378,-76.47752965762183,KAM Este - Ana Martínez,Gerencia Regional Este,B,Bajo,Tradicional,Tienda de barrio,2020-12-03
+S018,Tienda Comuna 7,Comuna 7,Norte,3.456389155494544,-76.48821416273543,KAM Norte - Laura Fernández,Gerencia Regional Norte,B,Alto,Tradicional,Tienda de barrio,2023-04-29
+S019,Tienda Comuna 21,Comuna 21,Este,3.4336748,-76.4647346,KAM Este - Ana Martínez,Gerencia Regional Este,B,Bajo,Tradicional,Tienda de barrio,2019-06-11
+S020,Tienda Comuna 5,Comuna 5,Norte,3.4720033342862173,-76.49532359055353,KAM Norte - Laura Fernández,Gerencia Regional Norte,B,Alto,Tradicional,Tienda de barrio,2019-07-21
+S021,Tienda Comuna 6,Comuna 6,Norte,3.485537687826916,-76.48791792746265,KAM Norte - Laura Fernández,Gerencia Regional Norte,A,Alto,Tradicional,Tienda de barrio,2024-06-04
+S022,Tienda Comuna 2,Comuna 2,Norte,3.474686906010047,-76.52554983950553,KAM Norte - Laura Fernández,Gerencia Regional Norte,A,Bajo,Tradicional,Tienda de barrio,2021-09-22
