@@ -1,0 +1,11 @@
+As we countdown to the 7th edition of the Global Power Platform & Agent Bootcamp (GPPB) 2026, excitement within our community is at an all-time high! This year, as we continue our journey of learning and innovation, we’re thrilled to unite over 80 locations worldwide for this landmark event.
+
+What's New This Year:
+This year, we are introducing post-event learning resources in collaboration with Microsoft. Please ensure that all local organizers share the following links with every participant after the event:
+
+Applied skills: https://aka.ms/GPPBAppliedskills
+Adoption resources: https://ak a.ms/GPPABResource
+
+A dedicated slide for these resources has also been included in the kickoff deck.
+
+We are also introducing a new option for attendees to claim their participation certificate. Please share the following link with all participants:https://bit.ly/GPPBClaimCert.
