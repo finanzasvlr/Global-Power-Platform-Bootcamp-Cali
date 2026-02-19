@@ -4,8 +4,9 @@ What's New This Year:
 This year, we are introducing post-event learning resources in collaboration with Microsoft. Please ensure that all local organizers share the following links with every participant after the event:
 
 Applied skills: https://aka.ms/GPPBAppliedskills
-Adoption resources: https://ak a.ms/GPPABResource
+Adoption resources: https://aka.ms/GPPABResource
 
 A dedicated slide for these resources has also been included in the kickoff deck.
+
 
 We are also introducing a new option for attendees to claim their participation certificate. Please share the following link with all participants:https://bit.ly/GPPBClaimCert.
